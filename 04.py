@@ -59,4 +59,5 @@ draw_T(-27, -20)
 draw_U(7, -20)
 
 hideturtle()
+
 done()
